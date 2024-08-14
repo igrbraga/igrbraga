@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @igrbraga;
-- 👀 I’m interested in Javascript, Database (MySQL Server) and Python;
-- 🌱 I’m currently learning Python;
+- 👀 I’m interested in SDN, Linux and Python;
+- 🌱 I’m currently learning SDN;
 - 💞️ I’m looking to collaborate on nothing yet :(;
 - 📫 How to reach me ...
 
